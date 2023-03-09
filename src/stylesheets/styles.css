@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.letraP{  
+    font-family: 'Outfit', sans-serif;
+}
+
+.letraSZ{
+    font-size: 90%;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+body {
+    background: hsl(217, 54%, 11%);
+}
+main{
+    width: 375px;
+}
+.img-size {
+    width: 100%;
+}
+
+.bg-card-color {
+    background: hsl(216, 50%, 16%);
+}
+
+.text-cyan {
+    color: hsl(178, 100%, 50%);
+}
+
+.icono{
+    width: 18px;
+    height: 18px;
+    margin-right: 2px;
+}
+
+.raya {
+    list-style: none;
+    width: 90%;
+    height: 1px;
+    background-color: white;
+    opacity: 15%;
+}

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-container {
+    padding: 30px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 5px 5px 30px #7e7e7e;
+}
+
+.box-container p {
+    line-height: 40px;
+    color: #969696;
+}
+
+.box-user img {
+    margin: 15px;
+}
+
+.img-rounded {
+    border-radius: 50%;
+    width: 80px;
+}
